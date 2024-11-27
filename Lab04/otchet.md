@@ -72,4 +72,24 @@
 27. find ~/test_find -perm 755 -empty -exec chmod a-x {} \;
     // on my skreenshot permission on can_execute.txt was 775
 
-28. 
+28. man ls > ~/man_ls.txt
+
+29. grep -n "^$" ~/man_ls.txt
+
+30. grep -E -n "[0-9]+" ~/man_ls.txt
+
+31. grep -i -n "author" ~/man_ls.txt
+
+32. wc -l -c ~/man_ls.txt
+
+33. ps aux -u kornev > ~/otchet/files/33.txt
+
+34. //another terminal. nano
+
+35. pgrep nano // id 4513
+
+36. kill -9 4513
+
+37. htop > F6(filter by) > %CPU
+
+38. DONE
