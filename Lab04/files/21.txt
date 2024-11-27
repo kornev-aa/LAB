@@ -1,0 +1,12 @@
+/home/kornev/Desktop
+/home/kornev/.ICEauthority
+/home/kornev/.cache/obexd
+/home/kornev/.sudo_as_admin_successful
+/home/kornev/Public
+/home/kornev/Templates
+/home/kornev/.gnupg/private-keys-v1.d
+/home/kornev/.config/goa-1.0
+/home/kornev/Videos
+/home/kornev/Music
+/home/kornev/.vscode/cli
+/home/kornev/.mozilla/extensions

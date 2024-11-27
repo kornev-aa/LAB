@@ -1,0 +1,218 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.3  22616 13608 ?        Ss   16:31   0:00 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    16:31   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        S    16:31   0:00 [pool_workqueue_release]
+root           4  0.0  0.0      0     0 ?        I<   16:31   0:00 [kworker/R-rcu_g]
+root           5  0.0  0.0      0     0 ?        I<   16:31   0:00 [kworker/R-rcu_p]
+root           6  0.0  0.0      0     0 ?        I<   16:31   0:00 [kworker/R-slub_]
+root           7  0.0  0.0      0     0 ?        I<   16:31   0:00 [kworker/R-netns]
+root          10  0.0  0.0      0     0 ?        I<   16:31   0:00 [kworker/0:0H-events_highpri]
+root          11  0.0  0.0      0     0 ?        I    16:31   0:00 [kworker/u2:0-events_power_efficient]
+root          12  0.0  0.0      0     0 ?        I<   16:31   0:00 [kworker/R-mm_pe]
+root          13  0.0  0.0      0     0 ?        I    16:31   0:00 [rcu_tasks_kthread]
+root          14  0.0  0.0      0     0 ?        I    16:31   0:00 [rcu_tasks_rude_kthread]
+root          15  0.0  0.0      0     0 ?        I    16:31   0:00 [rcu_tasks_trace_kthread]
+root          16  0.0  0.0      0     0 ?        S    16:31   0:00 [ksoftirqd/0]
+root          17  0.0  0.0      0     0 ?        I    16:31   0:00 [rcu_preempt]
+root          18  0.0  0.0      0     0 ?        S    16:31   0:00 [migration/0]
+root          19  0.0  0.0      0     0 ?        S    16:31   0:00 [idle_inject/0]
+root          20  0.0  0.0      0     0 ?        S    16:31   0:00 [cpuhp/0]
+root          21  0.0  0.0      0     0 ?        S    16:31   0:00 [kdevtmpfs]
+root          22  0.0  0.0      0     0 ?        I<   16:31   0:00 [kworker/R-inet_]
+root          23  0.0  0.0      0     0 ?        I    16:31   0:00 [kworker/u2:1-events_power_efficient]
+root          24  0.0  0.0      0     0 ?        S    16:31   0:00 [kauditd]
+root          25  0.0  0.0      0     0 ?        S    16:31   0:00 [khungtaskd]
+root          26  0.0  0.0      0     0 ?        S    16:31   0:00 [oom_reaper]
+root          28  0.0  0.0      0     0 ?        I<   16:31   0:00 [kworker/R-write]
+root          29  0.0  0.0      0     0 ?        S    16:31   0:00 [kcompactd0]
+root          30  0.0  0.0      0     0 ?        SN   16:31   0:00 [ksmd]
+root          31  0.0  0.0      0     0 ?        SN   16:31   0:00 [khugepaged]
+root          32  0.0  0.0      0     0 ?        I<   16:31   0:00 [kworker/R-kinte]
+root          33  0.0  0.0      0     0 ?        I<   16:31   0:00 [kworker/R-kbloc]
+root          34  0.0  0.0      0     0 ?        I<   16:31   0:00 [kworker/R-blkcg]
+root          35  0.0  0.0      0     0 ?        S    16:31   0:00 [irq/9-acpi]
+root          36  0.0  0.0      0     0 ?        I<   16:31   0:00 [kworker/R-tpm_d]
+root          37  0.0  0.0      0     0 ?        I<   16:31   0:00 [kworker/R-ata_s]
+root          38  0.0  0.0      0     0 ?        I<   16:31   0:00 [kworker/R-md]
+root          39  0.0  0.0      0     0 ?        I<   16:31   0:00 [kworker/R-md_bi]
+root          40  0.0  0.0      0     0 ?        I<   16:31   0:00 [kworker/R-edac-]
+root          41  0.0  0.0      0     0 ?        I<   16:31   0:00 [kworker/R-devfr]
+root          42  0.0  0.0      0     0 ?        S    16:31   0:00 [watchdogd]
+root          43  0.0  0.0      0     0 ?        I<   16:31   0:00 [kworker/0:1H-kblockd]
+root          44  0.0  0.0      0     0 ?        S    16:31   0:00 [kswapd0]
+root          45  0.0  0.0      0     0 ?        S    16:31   0:00 [ecryptfs-kthread]
+root          46  0.0  0.0      0     0 ?        I<   16:31   0:00 [kworker/R-kthro]
+root          47  0.0  0.0      0     0 ?        I<   16:31   0:00 [kworker/R-acpi_]
+root          48  0.0  0.0      0     0 ?        S    16:31   0:00 [scsi_eh_0]
+root          49  0.0  0.0      0     0 ?        I<   16:31   0:00 [kworker/R-scsi_]
+root          50  0.0  0.0      0     0 ?        S    16:31   0:00 [scsi_eh_1]
+root          51  0.0  0.0      0     0 ?        I<   16:31   0:00 [kworker/R-scsi_]
+root          55  0.0  0.0      0     0 ?        I<   16:31   0:00 [kworker/R-mld]
+root          56  0.0  0.0      0     0 ?        I<   16:31   0:00 [kworker/R-ipv6_]
+root          63  0.0  0.0      0     0 ?        I<   16:31   0:00 [kworker/R-kstrp]
+root          65  0.0  0.0      0     0 ?        I<   16:31   0:00 [kworker/u3:0-ttm]
+root          70  0.0  0.0      0     0 ?        I<   16:31   0:00 [kworker/R-crypt]
+root          71  0.0  0.0      0     0 ?        I    16:31   0:00 [kworker/0:2-cgroup_destroy]
+root          72  0.0  0.0      0     0 ?        I    16:31   0:00 [kworker/0:3-events]
+root          81  0.0  0.0      0     0 ?        I<   16:31   0:00 [kworker/R-charg]
+root         129  0.0  0.0      0     0 ?        S    16:31   0:00 [scsi_eh_2]
+root         130  0.0  0.0      0     0 ?        I<   16:31   0:00 [kworker/R-scsi_]
+root         157  0.0  0.0      0     0 ?        I<   16:31   0:00 [kworker/R-raid5]
+root         203  0.0  0.0      0     0 ?        S    16:31   0:00 [jbd2/sda2-8]
+root         204  0.0  0.0      0     0 ?        I<   16:31   0:00 [kworker/R-ext4-]
+root         255  0.0  0.4  50576 16904 ?        S<s  16:31   0:00 /usr/lib/systemd/systemd-journald
+root         310  0.0  0.1  29812  7912 ?        Ss   16:31   0:00 /usr/lib/systemd/systemd-udevd
+root         316  0.0  0.0      0     0 ?        S    16:31   0:00 [psimon]
+root         393  0.0  0.0      0     0 ?        I<   16:31   0:00 [kworker/R-iprt-]
+root         401  0.0  0.0      0     0 ?        S    16:31   0:00 [irq/18-vmwgfx]
+root         402  0.0  0.0      0     0 ?        I<   16:31   0:00 [kworker/R-ttm]
+root         432  0.0  0.0      0     0 ?        S<   16:31   0:00 [spl_system_task]
+root         433  0.0  0.0      0     0 ?        S<   16:31   0:00 [spl_delay_taskq]
+root         434  0.0  0.0      0     0 ?        S<   16:31   0:00 [spl_dynamic_tas]
+root         435  0.0  0.0      0     0 ?        S<   16:31   0:00 [spl_kmem_cache]
+root         436  0.0  0.0      0     0 ?        S<   16:31   0:00 [zvol]
+root         437  0.0  0.0      0     0 ?        S    16:31   0:00 [arc_prune]
+root         438  0.0  0.0      0     0 ?        S    16:31   0:00 [arc_evict]
+root         439  0.0  0.0      0     0 ?        SN   16:31   0:00 [arc_reap]
+root         440  0.0  0.0      0     0 ?        S    16:31   0:00 [dbu_evict]
+root         441  0.0  0.0      0     0 ?        SN   16:31   0:00 [dbuf_evict]
+root         442  0.0  0.0      0     0 ?        SN   16:31   0:00 [z_vdev_file]
+root         443  0.0  0.0      0     0 ?        S    16:31   0:00 [l2arc_feed]
+systemd+     502  0.0  0.3  21576 13312 ?        Ss   16:31   0:00 /usr/lib/systemd/systemd-resolved
+systemd+     509  0.0  0.1  91212  7808 ?        Ssl  16:31   0:00 /usr/lib/systemd/systemd-timesyncd
+root         592  0.0  0.2 321412  8112 ?        Ssl  16:31   0:00 /usr/libexec/accounts-daemon
+avahi        594  0.0  0.1   8608  4352 ?        Ss   16:31   0:00 avahi-daemon: running [kornev-VirtualBox.local]
+root         596  0.0  0.0  17540  2816 ?        Ss   16:31   0:00 /usr/sbin/cron -f -P
+message+     597  0.0  0.1  11096  6528 ?        Ss   16:31   0:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+polkitd      622  0.0  0.2 384608 10896 ?        Ssl  16:31   0:00 /usr/lib/polkit-1/polkitd --no-debug
+root         624  0.0  0.1 317840  6912 ?        Ssl  16:31   0:00 /usr/libexec/switcheroo-control
+root         626  0.0  0.2  18096  9056 ?        Ss   16:31   0:00 /usr/lib/systemd/systemd-logind
+root         628  0.0  0.3 469236 13728 ?        Ssl  16:31   0:00 /usr/libexec/udisks2/udisksd
+root         640  0.0  0.1 102120  5504 ?        Ssl  16:31   0:00 zed -F
+avahi        674  0.0  0.0   8420  1288 ?        S    16:31   0:00 avahi-daemon: chroot helper
+syslog       678  0.0  0.1 222508  6144 ?        Ssl  16:31   0:00 /usr/sbin/rsyslogd -n -iNONE
+root         686  0.0  0.4 344688 19440 ?        Ssl  16:31   0:00 /usr/sbin/NetworkManager --no-daemon
+root         691  0.0  0.1  17376  6016 ?        Ss   16:31   0:00 /usr/sbin/wpa_supplicant -u -s -O DIR=/run/wpa_supplicant GROUP=netdev
+root         735  0.0  0.3 392096 12876 ?        Ssl  16:31   0:00 /usr/sbin/ModemManager
+root        1063  0.0  0.0 297700  2816 ?        Sl   16:31   0:00 /usr/bin/VBoxDRMClient
+root        1066  0.0  0.0 303856  3596 ?        Sl   16:31   0:00 /usr/sbin/VBoxService --pidfile /var/run/vboxadd-service.sh
+root        1080  0.0  0.0      0     0 ?        I<   16:31   0:00 [kworker/u3:1-ttm]
+root        1082  0.0  0.2  46368 11904 ?        Ss   16:31   0:00 /usr/sbin/cupsd -l
+root        1095  0.0  0.1 380084  7656 ?        SLsl 16:31   0:00 /usr/sbin/lightdm
+root        1112  2.8  4.1 431660 165460 tty7    Ssl+ 16:31   1:14 /usr/lib/xorg/Xorg -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root        1116  0.0  0.0  16820  1920 tty1     Ss+  16:31   0:00 /sbin/agetty -o -p -- \u --noclear - linux
+cups-br+    1119  0.0  0.4 268400 19968 ?        Ssl  16:31   0:00 /usr/sbin/cups-browsed
+kernoops    1121  0.0  0.0  12744  2320 ?        Ss   16:31   0:00 /usr/sbin/kerneloops --test
+kernoops    1126  0.0  0.0  12744  2452 ?        Ss   16:31   0:00 /usr/sbin/kerneloops
+root        1169  0.0  0.0      0     0 ?        S    16:31   0:00 [psimon]
+rtkit       1196  0.0  0.0  22940  3328 ?        SNsl 16:31   0:00 /usr/libexec/rtkit-daemon
+root        1269  0.0  0.2 324780  9216 ?        Ssl  16:31   0:00 /usr/libexec/upowerd
+root        1279  0.0  0.2 236600  9232 ?        Sl   16:31   0:00 lightdm --session-child 13 20
+kornev      1297  0.0  0.2  20560 11776 ?        Ss   16:31   0:00 /usr/lib/systemd/systemd --user
+kornev      1298  0.0  0.0  22996  3716 ?        S    16:31   0:00 (sd-pam)
+kornev      1310  0.0  0.3 121480 12672 ?        S<sl 16:31   0:00 /usr/bin/pipewire
+kornev      1311  0.0  0.1 105852  6016 ?        Ssl  16:31   0:00 /usr/bin/pipewire -c filter-chain.conf
+kornev      1313  0.0  0.4 414936 19072 ?        S<sl 16:31   0:00 /usr/bin/wireplumber
+kornev      1314  0.0  0.2 117920 11392 ?        S<sl 16:31   0:00 /usr/bin/pipewire-pulse
+kornev      1315  0.0  0.2 324624 10240 ?        SLsl 16:31   0:00 /usr/bin/gnome-keyring-daemon --foreground --components=pkcs11,secrets --control-directory=/run/user/1000/keyring
+kornev      1320  0.0  0.1  10316  6112 ?        Ss   16:31   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+kornev      1328  0.0  0.6 384836 25948 ?        Ssl  16:31   0:00 xfce4-session
+kornev      1471  0.0  0.0  28052  1564 ?        S    16:31   0:00 /usr/bin/VBoxClient --clipboard
+kornev      1472  0.0  0.1 226240  4124 ?        Sl   16:31   0:00 /usr/bin/VBoxClient --clipboard
+kornev      1486  0.0  0.0  28052  1564 ?        S    16:31   0:00 /usr/bin/VBoxClient --seamless
+kornev      1487  0.0  0.0 226348  3356 ?        Sl   16:31   0:00 /usr/bin/VBoxClient --seamless
+kornev      1494  0.0  0.0  28052  1668 ?        S    16:31   0:00 /usr/bin/VBoxClient --draganddrop
+kornev      1495  0.0  0.0 226864  3204 ?        Sl   16:31   0:01 /usr/bin/VBoxClient --draganddrop
+kornev      1503  0.0  0.0  28052  1564 ?        S    16:31   0:00 /usr/bin/VBoxClient --vmsvga-session
+kornev      1505  0.0  0.0 226308  3484 ?        Sl   16:31   0:00 /usr/bin/VBoxClient --vmsvga-session
+kornev      1597  0.0  0.2 322372  8064 ?        Ssl  16:31   0:00 /usr/libexec/gvfsd
+kornev      1603  0.0  0.1 542596  7424 ?        Sl   16:31   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+kornev      1611  0.0  0.2 383092  8320 ?        Ssl  16:31   0:00 /usr/libexec/at-spi-bus-launcher
+kornev      1619  0.0  0.1   9552  5120 ?        S    16:31   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus_0
+kornev      1627  0.0  0.2 236044  8192 ?        Sl   16:31   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+kornev      1635  0.0  0.0   8300  1460 ?        Ss   16:31   0:00 /usr/bin/ssh-agent -s
+kornev      1644  0.0  0.0 165828  3456 ?        SLsl 16:31   0:00 /usr/bin/gpg-agent --supervised
+kornev      1647  0.2  2.7 664712 109648 ?       Sl   16:31   0:06 xfwm4
+kornev      1653  0.0  0.6 312280 27632 ?        Sl   16:31   0:00 xfsettingsd
+kornev      1657  0.1  1.0 473956 43604 ?        Sl   16:31   0:03 xfce4-panel
+kornev      1662  0.0  1.3 556848 54448 ?        Sl   16:31   0:00 Thunar --daemon
+kornev      1668  0.0  1.5 487924 60364 ?        Sl   16:31   0:00 xfdesktop
+kornev      1669  0.0  1.1 546008 44228 ?        Sl   16:31   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libwhiskermenu.so 1 23068679 whiskermenu Whisker Menu Show a menu to easily access installed applications
+kornev      1676  0.0  0.6 457996 27008 ?        Sl   16:31   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libsystray.so 8 23068680 systray Status Tray Plugin Provides status notifier items (application indicators) and legacy systray items
+kornev      1677  0.0  1.0 470080 40976 ?        Sl   16:31   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libnotification-plugin.so 9 23068681 notification-plugin Notification Plugin Notification plugin for the Xfce panel
+kornev      1678  0.0  1.0 544664 42468 ?        Sl   16:31   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libxapp-status-plugin.so 10 23068682 xapp-status-plugin XApp Status Plugin Area where XApp Status icons appear
+kornev      1679  0.0  1.0 397032 41624 ?        Sl   16:31   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libxfce4powermanager.so 11 23068683 power-manager-plugin Power Manager Plugin Display the battery levels of your devices and control the brightness of your display
+kornev      1680  0.0  1.0 467468 43724 ?        Sl   16:31   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libpulseaudio-plugin.so 12 23068684 pulseaudio PulseAudio Plugin Adjust the audio volume of the PulseAudio sound system
+kornev      1702  0.0  0.1 230108  5632 ?        Ssl  16:31   0:00 /usr/libexec/dconf-service
+kornev      1711  0.0  1.1 474012 44684 ?        Ssl  16:31   0:00 /usr/lib/x86_64-linux-gnu/xfce4/notifyd/xfce4-notifyd
+kornev      1721  0.0  1.5 813844 62268 ?        Sl   16:31   0:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+kornev      1722  0.0  0.6 383836 25728 ?        Sl   16:31   0:00 light-locker
+kornev      1723  0.0  0.2 594496  9088 ?        Sl   16:31   0:00 xiccd
+kornev      1727  0.0  0.9  74540 39772 ?        S    16:31   0:00 /usr/bin/python3 /usr/share/system-config-printer/applet.py
+kornev      1735  0.0  0.1 318376  6656 ?        Sl   16:31   0:00 /usr/libexec/geoclue-2.0/demos/agent
+colord      1736  0.0  0.3 328184 14916 ?        Ssl  16:31   0:00 /usr/libexec/colord
+kornev      1755  0.0  0.2 397460 10368 ?        Ssl  16:31   0:00 /usr/libexec/gvfs-udisks2-volume-monitor
+kornev      1763  0.0  0.2 397492  8192 ?        Ssl  16:31   0:00 /usr/libexec/gvfs-afc-volume-monitor
+kornev      1764  0.0  1.5 566408 60312 ?        Sl   16:31   0:00 /usr/bin/python3 /usr/bin/blueman-applet
+kornev      1776  0.0  0.1 317912  6656 ?        Ssl  16:31   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+kornev      1777  0.0  0.5 306484 20608 ?        Sl   16:31   0:00 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+kornev      1782  0.0  0.1 318880  7040 ?        Ssl  16:31   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+kornev      1788  0.0  0.1 317888  6656 ?        Ssl  16:31   0:00 /usr/libexec/gvfs-goa-volume-monitor
+kornev      1803  0.0  0.6 554776 24192 ?        Sl   16:31   0:00 /usr/libexec/goa-daemon
+kornev      1805  0.1  1.3 568456 54464 ?        Sl   16:31   0:02 mintreport-tray
+kornev      1806  0.0  0.5 307380 21504 ?        Sl   16:31   0:00 xfce4-power-manager
+kornev      1815  0.0  0.2 397244  9472 ?        Sl   16:31   0:00 /usr/libexec/goa-identity-service
+kornev      1821  0.0  1.1 554816 45036 ?        Sl   16:31   0:00 nm-applet
+kornev      1917  0.0  1.0 660100 42368 ?        Ssl  16:31   0:00 /usr/libexec/evolution-source-registry
+kornev      1946  0.0  0.6 718792 24576 ?        Ssl  16:31   0:00 /usr/libexec/evolution-calendar-factory
+kornev      1964  0.0  0.7 694276 30208 ?        Ssl  16:31   0:00 /usr/libexec/evolution-addressbook-factory
+kornev      1992  0.0  0.2  49064  8064 ?        Ss   16:31   0:00 /usr/libexec/bluetooth/obexd
+kornev      1994  0.0  2.2 765212 91336 ?        Sl   16:31   0:00 mintUpdate
+kornev      2083  0.0  1.2 500140 48168 ?        Sl   16:31   0:02 xfce4-terminal
+kornev      2089  0.0  0.2  22484  8156 pts/0    Ss   16:31   0:02 zsh
+kornev      2127  0.0  0.0  20972  3940 pts/0    S    16:31   0:00 zsh
+kornev      2138  0.0  0.1  21536  4352 pts/0    S    16:31   0:00 zsh
+kornev      2140  0.0  0.0  21520  3968 pts/0    S    16:31   0:00 zsh
+kornev      2141  0.0  0.0   2616  1408 pts/0    Sl   16:31   0:00 /home/kornev/.cache/gitstatus/gitstatusd-linux-x86_64 -G v1.5.4 -s -1 -u -1 -d -1 -c -1 -m -1 -v FATAL -t 2
+kornev      2146  2.4  9.8 3119052 395120 ?      Sl   16:32   1:02 /usr/lib/firefox/firefox
+kornev      2189  0.0  0.7 212728 31744 ?        Sl   16:32   0:00 /usr/lib/firefox/firefox-bin -contentproc -parentBuildID 20240704121409 -prefsLen 29361 -prefMapSize 248481 -appDir /usr/lib/firefox/browser {1faec4ef-6715-4bf2-bd9f-c7852734e27c} 2146 true socket
+kornev      2194  0.0  0.4 572008 17952 ?        Ssl  16:32   0:00 /usr/libexec/xdg-desktop-portal
+kornev      2203  0.0  0.1 619440  7552 ?        Ssl  16:32   0:00 /usr/libexec/xdg-document-portal
+kornev      2211  0.0  0.1 317424  6272 ?        Ssl  16:32   0:00 /usr/libexec/xdg-permission-store
+root        2218  0.0  0.0   2704  1920 ?        Ss   16:32   0:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+kornev      2222  0.0  0.5 454280 20736 ?        Ssl  16:32   0:00 /usr/libexec/xdg-desktop-portal-xapp
+kornev      2231  0.0  0.5 456228 23060 ?        Ssl  16:32   0:00 /usr/libexec/xdg-desktop-portal-gtk
+kornev      2247  0.0  3.5 2486452 139972 ?      Sl   16:32   0:00 /usr/lib/firefox/firefox-bin -contentproc -childID 1 -isForBrowser -prefsLen 29502 -prefMapSize 248481 -jsInitLen 234780 -parentBuildID 20240704121409 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {f30ca623-0b32-4b2f-8cac-7d89779f377a} 2146 true tab
+kornev      2295  0.0  2.1 2440780 87664 ?       Sl   16:32   0:00 /usr/lib/firefox/firefox-bin -contentproc -childID 2 -isForBrowser -prefsLen 35343 -prefMapSize 248481 -jsInitLen 234780 -parentBuildID 20240704121409 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {e4682d71-5579-4b1f-a9d4-92c6c1fde7c3} 2146 true tab
+kornev      2346  0.0  0.8 211332 32896 ?        Sl   16:32   0:00 /usr/lib/firefox/firefox-bin -contentproc -parentBuildID 20240704121409 -sandboxingKind 0 -prefsLen 35343 -prefMapSize 248481 -appDir /usr/lib/firefox/browser {36b91a3a-f165-4b24-a32c-31b05f3d1c3f} 2146 true utility
+kornev      2362  0.5  7.0 2662352 282376 ?      Sl   16:32   0:14 /usr/lib/firefox/firefox-bin -contentproc -childID 3 -isForBrowser -prefsLen 32049 -prefMapSize 248481 -jsInitLen 234780 -parentBuildID 20240704121409 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {feaf1f38-55ad-4a77-90fe-0dfb6fc46154} 2146 true tab
+kornev      2364  0.0  1.2 2410940 48760 ?       Sl   16:32   0:00 /usr/lib/firefox/firefox-bin -contentproc -childID 4 -isForBrowser -prefsLen 32049 -prefMapSize 248481 -jsInitLen 234780 -parentBuildID 20240704121409 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {e53cfc93-ccb9-45eb-ac56-deb877b0df52} 2146 true tab
+kornev      2387  0.0  1.2 2410940 48808 ?       Sl   16:32   0:00 /usr/lib/firefox/firefox-bin -contentproc -childID 5 -isForBrowser -prefsLen 32049 -prefMapSize 248481 -jsInitLen 234780 -parentBuildID 20240704121409 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {262ce20e-8417-4a8a-a2a1-f70daf31262c} 2146 true tab
+kornev      2467  0.0  1.2 2410940 48728 ?       Sl   16:32   0:00 /usr/lib/firefox/firefox-bin -contentproc -childID 6 -isForBrowser -prefsLen 32049 -prefMapSize 248481 -jsInitLen 234780 -parentBuildID 20240704121409 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {7e76f1f9-7eca-426c-a87c-37038eb62348} 2146 true tab
+kornev      2510  0.0  0.1 244420  6528 ?        Ssl  16:32   0:00 /usr/libexec/gvfsd-metadata
+kornev      2514  0.2  4.8 2598444 193212 ?      Sl   16:32   0:05 /usr/lib/firefox/firefox-bin -contentproc -childID 7 -isForBrowser -prefsLen 35505 -prefMapSize 248481 -jsInitLen 234780 -parentBuildID 20240704121409 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {3caf1526-fbb8-460c-8a37-03d6e48f672a} 2146 true tab
+kornev      2643  0.1  4.4 1189284548 177996 ?   Ssl  16:33   0:03 /usr/share/code/code otchet.md
+kornev      2647  0.0  1.1 33794704 46720 ?      S    16:33   0:00 /usr/share/code/code --type=zygote --no-zygote-sandbox
+kornev      2648  0.0  1.1 33794692 46848 ?      S    16:33   0:00 /usr/share/code/code --type=zygote
+kornev      2650  0.0  0.3 33794720 12048 ?      S    16:33   0:00 /usr/share/code/code --type=zygote
+kornev      2669  0.0  0.0 33575876 3328 ?       Sl   16:33   0:00 /usr/share/code/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --no-rate-limit --database=/home/kornev/.config/Code/Crashpad --url=appcenter://code?aid=fba07a4d-84bd-4fc8-a125-9640fc8ce171&uid=b3a92d2a-2518-44a2-a0b4-aea002ccb05c&iid=b3a92d2a-2518-44a2-a0b4-aea002ccb05c&sid=b3a92d2a-2518-44a2-a0b4-aea002ccb05c --annotation=_companyName=Microsoft --annotation=_productName=VSCode --annotation=_version=1.94.2 --annotation=lsb-release=Linux Mint 22 --annotation=plat=Linux --annotation=prod=Electron --annotation=ver=30.5.1 --initial-client-fd=48 --shared-client-connection
+kornev      2683  0.1  2.5 34060792 102856 ?     Sl   16:33   0:03 /usr/share/code/code --type=gpu-process --crashpad-handler-pid=2669 --enable-crash-reporter=1ec1af4c-b134-4bea-8966-d8ffd2c3bafe,no_channel --user-data-dir=/home/kornev/.config/Code --gpu-preferences=WAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAEAAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAGAAAAAAAAAAYAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --shared-files --field-trial-handle=3,i,16382604028705049382,834478760672680271,262144 --enable-features=kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+kornev      2688  0.0  1.7 33846276 68656 ?      Sl   16:33   0:00 /usr/share/code/code --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --crashpad-handler-pid=2669 --enable-crash-reporter=1ec1af4c-b134-4bea-8966-d8ffd2c3bafe,no_channel --user-data-dir=/home/kornev/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,16382604028705049382,834478760672680271,262144 --enable-features=kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+kornev      2709  0.7  6.4 1191260160 256184 ?   Sl   16:33   0:19 /usr/share/code/code --type=renderer --crashpad-handler-pid=2669 --enable-crash-reporter=1ec1af4c-b134-4bea-8966-d8ffd2c3bafe,no_channel --user-data-dir=/home/kornev/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --app-path=/usr/share/code/resources/app --enable-sandbox --enable-blink-features=HighlightAPI --disable-blink-features=FontMatchingCTMigration, --lang=en-US --num-raster-threads=1 --renderer-client-id=4 --time-ticks-at-unix-epoch=-1732714292144207 --launch-time-ticks=109213112 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,16382604028705049382,834478760672680271,262144 --enable-features=kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version --vscode-window-config=vscode:bcc7ae64-71af-4084-b7da-a924ddf56225
+kornev      2725  0.1  3.4 1189061984 137468 ?   Sl   16:33   0:03 /usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --dns-result-order=ipv4first --inspect-port=0 --crashpad-handler-pid=2669 --enable-crash-reporter=1ec1af4c-b134-4bea-8966-d8ffd2c3bafe,no_channel --user-data-dir=/home/kornev/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,16382604028705049382,834478760672680271,262144 --enable-features=kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+kornev      2735  0.0  2.6 1189060572 106108 ?   Sl   16:33   0:01 /usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --crashpad-handler-pid=2669 --enable-crash-reporter=1ec1af4c-b134-4bea-8966-d8ffd2c3bafe,no_channel --user-data-dir=/home/kornev/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,16382604028705049382,834478760672680271,262144 --enable-features=kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+kornev      2736  0.0  2.3 1189061124 94588 ?    Sl   16:33   0:00 /usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --crashpad-handler-pid=2669 --enable-crash-reporter=1ec1af4c-b134-4bea-8966-d8ffd2c3bafe,no_channel --user-data-dir=/home/kornev/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,16382604028705049382,834478760672680271,262144 --enable-features=kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+kornev      2776  0.0  2.1 1186815908 85196 ?    Sl   16:33   0:00 /usr/share/code/code /usr/share/code/resources/app/extensions/markdown-language-features/dist/serverWorkerMain --node-ipc --clientProcessId=2725
+kornev      2926  0.0  0.1 317656  6400 ?        Sl   16:39   0:00 /usr/lib/x86_64-linux-gnu/xfce4/xfconf/xfconfd
+kornev      3877  0.0  0.2 543696  8960 ?        Sl   16:51   0:00 /usr/libexec/gvfsd-trash --spawner :1.17 /org/gtk/gvfs/exec_spaw/0
+root        3939  0.0  0.0      0     0 ?        I    16:53   0:00 [kworker/u2:4-events_unbound]
+root        4067  0.0  0.7 548424 28344 ?        Ssl  16:59   0:00 /usr/libexec/fwupd/fwupd
+root        4226  0.0  0.0      0     0 ?        I    17:06   0:00 [kworker/u2:2-events_power_efficient]
+kornev      4464  0.0  0.2  22364  8144 pts/1    Ss   17:10   0:00 zsh
+kornev      4481  0.0  0.0  20976  3944 pts/1    S    17:10   0:00 zsh
+kornev      4492  0.0  0.1  21536  4360 pts/1    S    17:10   0:00 zsh
+kornev      4494  0.0  0.1  21520  4104 pts/1    S    17:10   0:00 zsh
+kornev      4495  0.0  0.0   2616  1536 pts/1    Sl   17:10   0:00 /home/kornev/.cache/gitstatus/gitstatusd-linux-x86_64 -G v1.5.4 -s -1 -u -1 -d -1 -c -1 -m -1 -v FATAL -t 2
+kornev      4513  0.0  0.0  17508  3584 pts/1    S+   17:11   0:00 nano
+root        4570  0.0  0.0      0     0 ?        I    17:13   0:00 [kworker/0:0]
+kornev      4618  0.0  0.1  21736  4736 pts/0    R+   17:15   0:00 ps aux -u kornev
